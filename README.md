@@ -51,6 +51,7 @@ The report includes:
 - John the Ripper
 #### Networking
 - Netcat
+- Nmap
 
 ## Author
 - Alessia Lettieri (ale0799)
