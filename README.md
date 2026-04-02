@@ -1,4 +1,4 @@
-### Penetration Testing System and Network Security
+# Penetration Testing System and Network Security
 
 ## ⚠️ Disclaimer
 This project was conducted in a controlled lab environment for educational purposes only.
@@ -30,24 +30,30 @@ The report includes:
 - Findings and recommendations
 
 ## Tools Used
-# Fuzzing & Web Testing
+#### Fuzzing & Web Testing
 - ffuf (Fuzz Faster U Fool)
 - Burp Suite (Intruder)
-# Database Exploitation
+#### Database Exploitation
 - SQLmap
-Webshell
+#### Webshell
 - Cmd.aspx
-Privilege Escalation & Credential Access
+#### Privilege Escalation & Credential Access
 - GodPotato
 - Mimikatz
 - Rubeus
-Exploitation Framework
+#### Exploitation Framework
 - Metasploit (MSFconsole + Kiwi module)
-Active Directory & Lateral Movement
+#### Active Directory & Lateral Movement
 - BloodHound
 - Impacket
 - PetitPotam
-Password Attacks
+#### Password Attacks
 - John the Ripper
-Networking
+#### Networking
 - Netcat
+
+## Author
+Alessia Lettieri (ale0799)
+Marco Panico (mpanico20)
+Cono Paolo Santoro 
+Pasquale Messina
