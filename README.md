@@ -53,7 +53,7 @@ The report includes:
 - Netcat
 
 ## Author
-Alessia Lettieri (ale0799)
-Marco Panico (mpanico20)
-Cono Paolo Santoro 
-Pasquale Messina
+- Alessia Lettieri (ale0799)
+- Marco Panico (mpanico20)
+- Cono Paolo Santoro 
+- Pasquale Messina
